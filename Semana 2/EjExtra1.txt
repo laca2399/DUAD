@@ -1,0 +1,26 @@
+1. Inicio
+2. Definir primero
+3. Definir segundo
+4. Definir temporal
+5. temporal = 0
+6. Mostrar “Ingrese un número”
+7. Pedir primero
+8. Mostrar “Ingrese otro número”
+9. Pedir segundo
+10. Si (primero > segundo) entonces:
+    1. temporal = primero
+    2. primero = segundo
+    3. segundo = temporal
+    4. Mostrar “Los números ordenados de menor a mayor se ven así: “
+    5. Mostrar “primero ”
+    6. Mostrar primero
+    7. Mostrar “segundo ”
+    8. Mostrar segundo
+11. Sino:
+    1. Mostrar “Los números ordenados de menor a mayor se ven así: “
+    13. Mostrar “primero ”
+    13. Mostrar primero
+    13. Mostrar “segundo ”
+    13. Mostrar segundo
+12. FinSi
+13. Fin

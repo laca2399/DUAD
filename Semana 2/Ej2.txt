@@ -1,0 +1,13 @@
+1. Inicio
+2. Definir tiempo_segundos
+3. Definir segundos_falt
+4. Mostrar “Ingrese el tiempo en segundos”
+5. Pedir tiempo_segundos
+6. Si (tiempo_segundos < 600) entonces:
+    1. segundos_falt = 600 - tiempo_segundos
+    2. Mostrar “Faltan esta cantidad de segundos para llegar a 10 minutos: ”
+    3. Mostrar segundos_falt
+7. Sino:
+    1. Mostrar “Mayor”
+8. FinSi
+9. Fin

@@ -1,0 +1,107 @@
+1. Inicio
+2. Despertar
+    1. Me levanto de la cama
+    2. Tiendo la cama
+3. Desayunar
+    1. Bajo al primer piso
+    2. Si ya esta listo el desayuno:
+        1. Como
+    3. Sino:
+        1. Cocino
+        2. Como
+    4. Lavo los platos
+        1. Tomo una esponja
+        2. Por cada plato sucio:
+            1. Lleno la esponja con jabón
+            2. Tomo el plato sucio
+            3. Mientras que el plato este sucio:
+                1. Restriego el plato con la esponja
+    5. Subo al segundo piso
+4. Si tengo que trabajar:
+    1. Enciendo la computadora del trabajo
+    2. la desbloqueó
+    3. me conecto al vpn
+    4. inicio sesión
+    5. reviso correos
+    6. comienzo a trabajar
+5. Sino, si tengo tareas pendientes:
+    1. revisar agenda
+    2. realizar tareas pendientes
+6. Sino:
+    1. Me entretengo mediante la televisión o el ps5
+7. Merienda
+    1. bajo al primer piso
+    2. me como 10 almendras
+    3. subo al segundo piso
+8. Hago ejercicio
+    1. Realizo rutina personal
+    2. Al terminar, me baño
+9. Almuerzo
+    1. Bajo al primer piso
+    2. Si ya esta listo el almuerzo:
+        1. Como
+    18. Sino:
+        18. Cocino
+        18. Como
+    18. Lavo los platos
+        18. Tomo una esponja
+        2. Por cada plato sucio: 
+            1. Lleno la esponja con jabón
+            2. Tomo el plato sucio
+            3. Mientras que el plato este sucio:
+                1. Restriego el plato con la esponja
+    18. Subo al segundo piso
+10. Descanso
+11. Voy a entrenar
+    1. Me alisto
+    2. Si esta disponible el automóvil:
+        1. Me voy con mi papá
+    3. Sino:
+        1. pido un uber
+    4. Llego al gym y me ejercitó
+12. Regreso a Casa
+    1. Si mi papá me trajo:
+        1. Me voy con él
+    2. Sino:
+    
+           ii.   Pido un uber
+    
+    c. llego a la casa
+    
+13. Baño
+    1. Subo al segundo piso
+    2. tomo una ducha
+    3. me pongo pijama
+14. Estudio
+    1. Enciendo la computadora personal
+    2. la desbloqueó
+    3. arrimo un cuaderno
+    4. estudio
+    5. termino de estudiar
+15. Ceno
+    1. Bajo al primer piso
+    2. Si ya esta la cena:
+        1. Como
+    3. Sino: 
+        
+        i.    Cocino
+        
+        ii.   Como
+        
+    4. Lavo los platos
+        1. Tomo una esponja
+        2. Por cada plato sucio:
+            1. Lleno la esponja con jabón
+            2. Tomo el plato sucio
+            3. Mientras que el plato este sucio:
+                1. Restriego el plato con la esponja
+    5. Subo al segundo piso
+16. Me entretengo
+    1. Mientras que no sean las 10:30 pm
+        1. Puedo jugar ps5 o ver anime o ver deporte
+17. Duermo
+    1. Destiendo la cama
+    2. acomodo las almohadas
+    3. apago la luz
+    4. me acuesto a dormir
+18. Fin

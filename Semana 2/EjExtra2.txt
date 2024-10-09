@@ -1,0 +1,13 @@
+1. Inicio
+2. Definir Velocidad
+3. Definir metros
+4. Definir segundos
+5. metros = 0
+6. segundos = 0
+7. Mostrar “Ingrese la velocidad en km”
+8. Pedir velocidad
+9. Metros = velocidad * 1000
+10. segundos = metros / 3600
+11. Mostrar “Su velocidad convertida a m/s es de “
+12. Mostrar segundos
+13. Fin

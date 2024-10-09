@@ -1,0 +1,23 @@
+1. Inicio
+2. Preparar el dispositivo
+    1. Escoger teléfono móvil o Tablet o computadora
+        1. Encender dispositivo
+        2. Desbloquear dispositivo
+3. Si tenemos aplicación de Youtube:
+    1. buscar aplicación
+    2. abrir aplicación
+    3. seleccionar video y reproducirlo
+4. Sino:
+    1. abrir navegador web
+        1. seleccionar chrome o firefox o edge o otro
+5. Navegar a www.youtube.com
+    1. En la barra superior de búsqueda, escribir www.youtube.com
+    2. Darle enter al teclado
+6. Seleccionar video y reproducirlo
+    1. Si desea un video en específico:
+        1. Escribir nombre del video en la barra de búsqueda de youtube
+        2. Darle enter al teclado o click en la lupita de buscar
+        3. seleccionar y reproducir el video deseado
+    2. Sino:
+        1. Seleccionar y reproducir video de la página de inicio de youtube
+7. Fin

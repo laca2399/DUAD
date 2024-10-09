@@ -1,0 +1,49 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.12">
+  <diagram name="Página-1" id="5YCRO9lte5gwAUIoCIZL">
+    <mxGraphModel dx="1257" dy="620" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LeZti7QsGncbtlWGcE3M-1" value="&lt;b&gt;metros = velocidad * 1000&lt;/b&gt;&lt;div&gt;&lt;b&gt;segundos = metros / 3600&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="306.75" y="412" width="172.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LeZti7QsGncbtlWGcE3M-2" value="&lt;b&gt;metros = 0&lt;/b&gt;&lt;div&gt;&lt;b&gt;segundos = 0&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="333" y="117" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LeZti7QsGncbtlWGcE3M-3" value="&lt;b&gt;Fin&lt;/b&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="337.5" y="655" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LeZti7QsGncbtlWGcE3M-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LeZti7QsGncbtlWGcE3M-4" target="LeZti7QsGncbtlWGcE3M-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LeZti7QsGncbtlWGcE3M-4" value="&lt;b&gt;Inicio&lt;/b&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="343" y="22" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LeZti7QsGncbtlWGcE3M-5" value="&lt;b&gt;&amp;nbsp; &quot;Su velocidad convertida a m/s es de &quot;&lt;/b&gt;&lt;div&gt;&lt;b&gt;segundos&lt;/b&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="324" y="509" width="127" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="LeZti7QsGncbtlWGcE3M-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LeZti7QsGncbtlWGcE3M-6" target="LeZti7QsGncbtlWGcE3M-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LeZti7QsGncbtlWGcE3M-6" value="&lt;b&gt;&quot;Ingrese la velocidad en km/h&quot;&lt;/b&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="337" y="214" width="111" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="LeZti7QsGncbtlWGcE3M-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LeZti7QsGncbtlWGcE3M-7" target="LeZti7QsGncbtlWGcE3M-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LeZti7QsGncbtlWGcE3M-7" value="&lt;b&gt;velocidad&lt;/b&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="342.5" y="314" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LeZti7QsGncbtlWGcE3M-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LeZti7QsGncbtlWGcE3M-2" target="LeZti7QsGncbtlWGcE3M-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LeZti7QsGncbtlWGcE3M-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LeZti7QsGncbtlWGcE3M-1" target="LeZti7QsGncbtlWGcE3M-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LeZti7QsGncbtlWGcE3M-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LeZti7QsGncbtlWGcE3M-5" target="LeZti7QsGncbtlWGcE3M-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

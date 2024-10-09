@@ -1,0 +1,15 @@
+1. Inicio
+2. Definir numero
+3. Definir suma
+4. Definir contador
+5. contador = 1
+6. suma = 0
+7. Mostrar “Ingrese un número”
+8. Pedir numero
+9. Mientras que (contador ≤ numero) hacer:
+    1. suma = suma + contador
+10. contador = contador + 1
+11. Fin Mientras
+12. Mostrar “La suma total desde 1 hasta su número seleccionado es de ”
+13. Mostrar suma
+14. Fin

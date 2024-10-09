@@ -1,0 +1,30 @@
+1. Inicio
+2. Definir sexo
+3. Definir contador
+4. Definir cant_homb
+5. Definir cant_muj
+6. Definir porc_homb
+7. Definir porc_muj
+8. contador = 1
+9. cant_homb = 0
+10. cant_muj = 0
+11. porc_homb = 0
+12. porc_muj = 0
+13. Mientras que (contador ≤ 6) hacer:
+    1. Mostrar “Ingrese el sexo de 6 personas 1 a la vez, digite 1 si es mujer o 2 si es hombre”
+    2. Mostrar contador
+    3. Pedir sexo
+    4. Si (sexo == 1) entonces:
+        1. cant_muj = cant_muj + 1
+    5. Sino:
+        1. cant_homb = cant_homb + 1
+    6. FinSi
+    7. contador = contador + 1
+14. Fin Mientras
+15. porc_muj = (cant_muj / 6) * 100
+16. porc_homb = (cant_homb / 6) * 100
+17. Mostrar “El porcentaje de mujeres es de “
+18. Mostrar porc_muj
+19. Mostrar “El porcentaje de hombres es de “
+20. Mostrar porc_homb
+21. Fin

@@ -1,0 +1,27 @@
+{
+    "categories": [
+        "Job",
+        "Belleza",
+        "Hola"
+    ],
+    "transactions": [
+        {
+            "name": "Salary",
+            "amount": 100.0,
+            "category": "Job",
+            "type": "Income"
+        },
+        {
+            "name": "Keratina",
+            "amount": 86.0,
+            "category": "Belleza",
+            "type": "Expense"
+        },
+        {
+            "name": "saludo",
+            "amount": 1.0,
+            "category": "Hola",
+            "type": "Expense"
+        }
+    ]
+}
